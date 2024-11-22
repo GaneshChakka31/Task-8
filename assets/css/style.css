@@ -1,0 +1,30 @@
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbNgkrj87hJ6ZDfuvcPUxJUQfMAgBqzATuQQ&s); 
+  background-size: cover;
+  background-position: center; 
+  background-repeat: no-repeat; 
+  display: flex;
+  justify-content: center;  
+}
+
+h1{
+  text-align: center;
+}
+
+.error {
+  color: red;
+  font-size: 1.0em;
+}
+
+button{
+  background-color: green;
+  border-radius: 10px;      
+}
+
+#registrationForm label {
+  color: white;  
+}
+
+h1{
+  color: white;
+}
